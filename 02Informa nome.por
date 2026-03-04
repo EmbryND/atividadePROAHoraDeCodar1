@@ -1,4 +1,4 @@
-// Função para exibir nome do usuário
+// 2 - Escreva um programa em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
 programa {
   funcao inicio() {
     cadeia nome
